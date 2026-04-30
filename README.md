@@ -4,10 +4,6 @@
 
 **AxonOS** is an open-source, multi-kernel operating system designed to serve as the **Digital Nervous System** for the next generation of humanoid robots. By decoupling high-level cognition from mission-critical motor control, AxonOS ensures that robots remain stable, safe, and responsive—even when the "brain" AI is under heavy load.
 
-[Image Placeholder: A sleek visualization of a digital spinal column connecting distributed microkernels to a central AI cortex]
-
----
-
 ## 🚀 The Vision: Giving Robots a Backbone
 The robotics industry is currently where the PC industry was in the 1980s: fragmented. **AxonOS** aims to be the universal standard—the "Android of Robotics." Our architecture mimics the human biological nervous system to solve the three biggest challenges in robotics: **latency, safety, and hardware interoperability.**
 
